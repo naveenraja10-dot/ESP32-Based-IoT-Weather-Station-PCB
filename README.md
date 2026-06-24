@@ -60,3 +60,8 @@ Mobile Dashboard
 Battery Management System
 Enclosure Design
 OTA Firmware Updates
+
+
+
+<img width="960" height="600" alt="2026-06-24 (7)" src="https://github.com/user-attachments/assets/4680d336-8f28-4bdb-b195-49d2e39bb5b4" />
+
