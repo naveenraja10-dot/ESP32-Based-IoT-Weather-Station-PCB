@@ -118,7 +118,8 @@ Reset and Boot buttons are included to support ESP32 programming and debugging o
 - MQTT-Based IoT Connectivity
 
 
-<img width="960" height="600" alt="2026-06-24 (8)" src="https://github.com/user-attachments/assets/0eeefff2-52d2-41c5-a445-5c8db3e769bf" />
+<img width="960" height="600" alt="2026-06-24 (7)" src="https://github.com/user-attachments/assets/878711e4-2d9d-486d-adb4-40e7d9ebf311" />
+
 <img width="960" height="600" alt="2026-06-24 (8)" src="https://github.com/user-attachments/assets/3d2db83a-af8d-4f35-8d22-1040f2b038c2" />
 <img width="960" height="600" alt="2026-06-24 (1)" src="https://github.com/user-attachments/assets/5cbe3688-9b80-4340-9d56-380dd9a4770d" />
 
